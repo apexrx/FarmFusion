@@ -129,7 +129,7 @@ export default function Home() {
                   </CardHeader>
                   <CardContent>
                     <p className="text-[#d3c6aa]">
-                      AI analyzes vast amounts of data to provide tailored recommendations, optimizing resource use and increasing crop yields.
+                      AI is revolutionizing agriculture by analyzing vast amounts of data from various sources, including weather patterns and soil sensors.
                     </p>
                   </CardContent>
                 </Card>
@@ -246,7 +246,8 @@ export default function Home() {
                   </CardHeader>
                   <CardContent>
                     <p className="text-[#d3c6aa]">
-                      Detect crop diseases early with our advanced image recognition technology.
+                      Detect crop diseases early with our advanced image recognition technology, and minimize losses.
+
                     </p>
                   </CardContent>
                   <CardFooter>
