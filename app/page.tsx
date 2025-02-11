@@ -129,7 +129,7 @@ export default function Home() {
                   </CardHeader>
                   <CardContent>
                     <p className="text-[#d3c6aa]">
-                      AI is revolutionizing agriculture by analyzing vast amounts of data from various sources, including weather patterns and soil sensors.
+                      AI is revolutionizing agriculture by analyzing vast amounts of data from various sources, including satellite imagery, weather patterns and soil sensors.
                     </p>
                   </CardContent>
                 </Card>
