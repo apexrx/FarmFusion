@@ -8,8 +8,6 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { Slider } from "@/components/ui/slider"
 import { TreesIcon as Plant, Droplet, Thermometer } from "lucide-react"
-import './global.css';
-
 
 export default function FertilizerRecommendation() {
   const [result, setResult] = useState<{ recommended_fertilizer: string } | null>(null)
