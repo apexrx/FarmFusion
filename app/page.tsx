@@ -199,7 +199,7 @@ export default function Home() {
                         variant="outline"
                         className="border-[#a7c080] text-[#a7c080] hover:bg-[#a7c080] hover:text-[#2f383e]"
                       >
-                        Learn More
+                        Explore
                       </Button>
                     </Link>
                   </CardFooter>
@@ -227,7 +227,7 @@ export default function Home() {
                         variant="outline"
                         className="border-[#a7c080] text-[#a7c080] hover:bg-[#a7c080] hover:text-[#2f383e]"
                       >
-                        Learn More
+                        Explore
                       </Button>
                     </Link>
                   </CardFooter>
@@ -256,7 +256,7 @@ export default function Home() {
                         variant="outline"
                         className="border-[#a7c080] text-[#a7c080] hover:bg-[#a7c080] hover:text-[#2f383e]"
                       >
-                        Learn More
+                        Explore
                       </Button>
                     </Link>
                   </CardFooter>
