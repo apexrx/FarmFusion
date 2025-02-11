@@ -115,7 +115,7 @@ export default function Home() {
         {/* "Why AI in Agriculture?" Section */}
         <section className="py-20 bg-[#374247]">
           <div className="container mx-auto px-6">
-            <h3 className="text-3xl font-semibold text-[#a7c080] mb-12 text-center">Why AI in Agriculture?</h3>
+            <h1 className="text-3xl font-semibold text-[#a7c080] mb-12 text-center">Why AI in Agriculture?</h1>
             <div className="grid md:grid-cols-3 gap-8">
               <motion.div
                 initial={{ opacity: 0, y: 20 }}
@@ -175,7 +175,7 @@ export default function Home() {
         {/* "Our AI-Powered Solutions" Section (with ref for scrolling) */}
         <section ref={solutionsRef} className="py-20 bg-[#2f383e]">
           <div className="container mx-auto px-6">
-            <h3 className="text-3xl font-semibold text-[#a7c080] mb-12 text-center">Our AI-Powered Solutions</h3>
+            <h1 className="text-3xl font-semibold text-[#a7c080] mb-12 text-center">Our AI-Powered Solutions</h1>
             <div className="grid md:grid-cols-3 gap-8">
               <motion.div
                 initial={{ opacity: 0, y: 20 }}
@@ -268,7 +268,7 @@ export default function Home() {
         {/* "The Power of AI in Agriculture" Section */}
         <section className="py-20 bg-[#374247]">
           <div className="container mx-auto px-6">
-            <h3 className="text-3xl font-semibold text-[#a7c080] mb-12 text-center">The Power of AI in Agriculture</h3>
+            <h1 className="text-3xl font-semibold text-[#a7c080] mb-12 text-center">The Power of AI in Agriculture</h1>
             <div className="grid md:grid-cols-2 gap-12 items-center">
               <motion.div
                 initial={{ opacity: 0, x: -50 }}
