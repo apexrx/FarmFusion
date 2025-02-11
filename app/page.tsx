@@ -311,7 +311,7 @@ export default function Home() {
 
       <footer className="bg-[#2f383e] text-[#d3c6aa] py-8">
         <div className="container mx-auto px-6 text-center">
-          <p>&copy; 2023 Farm Fusion. All rights reserved.</p>
+          <p>&copy; 2025 Farm Fusion. All rights reserved.</p>
           <p className="mt-2">Empowering farmers with AI-driven insights for a sustainable future.</p>
         </div>
       </footer>
